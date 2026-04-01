@@ -1,3 +1,4 @@
 small A
 Capital A
 Haha, this change is made in github.com file & committed 
+done this change to practice git pull command which is  pull = fetch+merge
