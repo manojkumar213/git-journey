@@ -1,3 +1,7 @@
 four
+<<<<<<< HEAD
 44
+=======
+444
+>>>>>>> staging
 additional 4
